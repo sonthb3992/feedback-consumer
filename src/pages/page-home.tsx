@@ -1,7 +1,9 @@
 import React from "react";
-import { ReviewComponent, UserInfo } from "caffino-feedback-module";
-import { FeedbackModuleConfig } from "caffino-feedback-module";
-import { ReviewForm } from "caffino-feedback-module";
+import {
+  ReviewComponent,
+  UserInfo,
+  FeedbackModuleConfig,
+} from "caffino-feedback-module";
 
 import { firebaseConfig } from "../firebase/firebase";
 
